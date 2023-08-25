@@ -1,0 +1,21 @@
+{
+  "name": "my-blog",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.8.1",
+    "axios": "^1.4.0",
+    "graphql": "^16.7.1",
+    "next": "13.4.13",
+    "next-mdx-remote": "^4.4.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "sass": "^1.65.1"
+  }
+}
